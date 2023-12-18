@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace lab6_7
+namespace pr_6_7_1
 {
     class Student
     {
