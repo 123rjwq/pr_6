@@ -1,0 +1,14 @@
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_6_7\pr_6_7_2\pr_6_7_2\bin\Debug\net8.0\pr_6_7_2.exe
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_6_7\pr_6_7_2\pr_6_7_2\bin\Debug\net8.0\pr_6_7_2.deps.json
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_6_7\pr_6_7_2\pr_6_7_2\bin\Debug\net8.0\pr_6_7_2.runtimeconfig.json
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_6_7\pr_6_7_2\pr_6_7_2\bin\Debug\net8.0\pr_6_7_2.dll
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_6_7\pr_6_7_2\pr_6_7_2\bin\Debug\net8.0\pr_6_7_2.pdb
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_6_7\pr_6_7_2\pr_6_7_2\obj\Debug\net8.0\pr_6_7_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_6_7\pr_6_7_2\pr_6_7_2\obj\Debug\net8.0\pr_6_7_2.AssemblyInfoInputs.cache
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_6_7\pr_6_7_2\pr_6_7_2\obj\Debug\net8.0\pr_6_7_2.AssemblyInfo.cs
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_6_7\pr_6_7_2\pr_6_7_2\obj\Debug\net8.0\pr_6_7_2.csproj.CoreCompileInputs.cache
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_6_7\pr_6_7_2\pr_6_7_2\obj\Debug\net8.0\pr_6_7_2.dll
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_6_7\pr_6_7_2\pr_6_7_2\obj\Debug\net8.0\refint\pr_6_7_2.dll
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_6_7\pr_6_7_2\pr_6_7_2\obj\Debug\net8.0\pr_6_7_2.pdb
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_6_7\pr_6_7_2\pr_6_7_2\obj\Debug\net8.0\pr_6_7_2.genruntimeconfig.cache
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_6_7\pr_6_7_2\pr_6_7_2\obj\Debug\net8.0\ref\pr_6_7_2.dll
