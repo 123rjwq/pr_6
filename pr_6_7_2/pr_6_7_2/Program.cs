@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace pr_2
+namespace pr_6_7_2
 {
     class Employee
     {
